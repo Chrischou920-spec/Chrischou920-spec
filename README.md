@@ -5,7 +5,7 @@
 AI × Crypto builder — build in public 🚧
 
 ## 🔨 正在折腾
-- **行价比** — 中文出行规划网站，接入 12306 与国内机票 MCP，支持往返方案比较
+- **[行价比](https://github.com/Chrischou920-spec/xingjiabi)** — 中文出行规划网站，接入 12306 与国内机票 MCP，支持往返方案比较
 - **[原创 Taste Skill（Combinatorial Taste）](https://github.com/Chrischou920-spec/combinatorial-taste-skill)** — 从网页参考中组合设计方法，做出有自己辨识度的页面
 - **Movli mascot redesign** — 给喜欢的 builder 的新项目做宠物形象设计
 - 更多小项目在路上…
@@ -28,7 +28,7 @@ X: [@Chr1sss630](https://x.com/Chr1sss630) · DM open，欢迎交流
 AI × Crypto builder — build in public 🚧
 
 ### 🔨 What I'm building
-- **行价比 / Xingjiabi** — A Chinese-language travel planning website with 12306 and domestic-flight MCP integrations and round-trip comparison
+- **[行价比 / Xingjiabi](https://github.com/Chrischou920-spec/xingjiabi)** — A Chinese-language travel planning website with 12306 and domestic-flight MCP integrations and round-trip comparison
 - **[My original Taste Skill (Combinatorial Taste)](https://github.com/Chrischou920-spec/combinatorial-taste-skill)** — Composing design methods from website references into pages with an identity of their own
 - **Movli mascot redesign** — Designing a pet mascot for a new project by a builder I like
 - More small projects on the way…
