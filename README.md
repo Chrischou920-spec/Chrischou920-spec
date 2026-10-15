@@ -15,7 +15,7 @@ Python · MCP · Codex（持续加码中）
 ## 🎯 目标
 20 岁前做出百万级用户的产品
 
-## 📬 联系：chouchris71@gmail.com
+## 📬 联系：chrischou630@gmail.com
 X: [@Chr1sss630](https://x.com/Chr1sss630) · DM open，欢迎交流
 
 ---
@@ -29,7 +29,6 @@ AI × Crypto builder — build in public 🚧
 ### 🔨 What I'm building
 - **[行价比 / Xingjiabi](https://github.com/Chrischou920-spec/xingjiabi)** — A Chinese-language travel planning website with 12306 and domestic-flight MCP integrations and round-trip comparison
 - **[My original Taste Skill (Combinatorial Taste)](https://github.com/Chrischou920-spec/combinatorial-taste-skill)** — Composing design methods from website references into pages with an identity of their own
-- **Movli mascot redesign** — Designing a pet mascot for a new project by a builder I like
 - More small projects on the way…
 
 ### 🛠 Stack
@@ -38,5 +37,5 @@ Python · MCP · Codex (continuing to learn and build)
 ### 🎯 Goal
 Build a product with a million users before I turn 20
 
-### 📬 Contact: chouchris71@gmail.com
+### 📬 Contact: chrischou630@gmail.com
 X: [@Chr1sss630](https://x.com/Chr1sss630) · DMs open — let's connect
