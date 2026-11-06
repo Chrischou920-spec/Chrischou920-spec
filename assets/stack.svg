@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="140" viewBox="0 0 560 140" role="img" aria-labelledby="stack-title stack-desc">
+  <title id="stack-title">Python · JavaScript · CSS · MCP · Codex</title>
+  <desc id="stack-desc">Five tools used by Chris, displayed as original brand icons with English labels.</desc>
+  <!-- Original SVG paths: tandpfun/skill-icons and lobehub/lobe-icons. MIT notices are preserved in assets/licenses/. -->
+  <!-- Python: https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg; blob dd0e485beea7c2840b65a4817c561b4ee90a2ae6 -->
+  <g transform="translate(58 16)">
+    <rect width="76" height="76" rx="18" fill="#242938" stroke="#37435a"/>
+    <svg x="8" y="8" width="60" height="60" viewBox="0 0 256 256" fill="none" fill-rule="evenodd"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="url(#paint0_linear_2_47)" d="M127.279 29C76.5066 29 79.6772 51.018 79.6772 51.018L79.7338 73.8284H128.185V80.6772H60.4893C60.4893 80.6772 28 76.9926 28 128.222C28 179.452 56.3573 177.636 56.3573 177.636H73.2812V153.863C73.2812 153.863 72.369 125.506 101.186 125.506H149.24C149.24 125.506 176.239 125.942 176.239 99.4123V55.5461C176.239 55.5461 180.338 29 127.279 29ZM100.563 44.339C105.384 44.339 109.28 48.2351 109.28 53.0556C109.28 57.8761 105.384 61.7723 100.563 61.7723C95.7426 61.7723 91.8465 57.8761 91.8465 53.0556C91.8465 48.2351 95.7426 44.339 100.563 44.339Z"/><path fill="url(#paint1_linear_2_47)" d="M128.721 227.958C179.493 227.958 176.323 205.941 176.323 205.941L176.266 183.13H127.815V176.281H195.511C195.511 176.281 228 179.966 228 128.736C228 77.5062 199.643 79.323 199.643 79.323H182.719V103.096C182.719 103.096 183.631 131.453 154.814 131.453H106.76C106.76 131.453 79.7607 131.016 79.7607 157.546V201.412C79.7607 201.412 75.6615 227.958 128.721 227.958ZM155.437 212.619C150.616 212.619 146.72 208.723 146.72 203.903C146.72 199.082 150.616 195.186 155.437 195.186C160.257 195.186 164.154 199.082 164.154 203.903C164.154 208.723 160.257 212.619 155.437 212.619Z"/><defs><linearGradient id="paint0_linear_2_47" x1="47.22" x2="146.333" y1="46.896" y2="145.02" gradientUnits="userSpaceOnUse"><stop stop-color="#387EB8"/><stop offset="1" stop-color="#366994"/></linearGradient><linearGradient id="paint1_linear_2_47" x1="108.056" x2="214.492" y1="109.905" y2="210.522" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE052"/><stop offset="1" stop-color="#FFC331"/></linearGradient></defs></svg>
+    <text x="38" y="102" text-anchor="middle" fill="#adbed3" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">Python</text>
+  </g>
+  <!-- JavaScript: https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg; blob 991e5062abb2d350d4f93db7d227a0cfd206f6f6 -->
+  <g transform="translate(150 16)">
+    <rect width="76" height="76" rx="18" fill="#242938" stroke="#37435a"/>
+    <svg x="8" y="8" width="60" height="60" viewBox="0 0 256 256" fill="none" fill-rule="evenodd">
+<rect width="256" height="256" rx="60" fill="#F0DB4F"/>
+<path d="M67.3117 213.932L86.9027 202.076C90.6821 208.777 94.1202 214.447 102.367 214.447C110.272 214.447 115.256 211.355 115.256 199.327V117.529H139.314V199.667C139.314 224.584 124.708 235.926 103.398 235.926C84.1533 235.926 72.9819 225.959 67.3113 213.93" fill="#323330"/>
+<path d="M152.381 211.354L171.969 200.013C177.126 208.434 183.828 214.62 195.684 214.62C205.653 214.62 212.009 209.636 212.009 202.762C212.009 194.514 205.479 191.592 194.481 186.782L188.468 184.203C171.111 176.815 159.597 167.535 159.597 147.945C159.597 129.901 173.345 116.153 194.826 116.153C210.12 116.153 221.118 121.481 229.022 135.4L210.291 147.429C206.166 140.04 201.7 137.119 194.826 137.119C187.78 137.119 183.312 141.587 183.312 147.429C183.312 154.646 187.78 157.568 198.09 162.037L204.104 164.614C224.553 173.379 236.067 182.313 236.067 202.418C236.067 224.072 219.055 235.928 196.2 235.928C173.861 235.928 159.426 225.274 152.381 211.354" fill="#323330"/>
+</svg>
+    <text x="38" y="102" text-anchor="middle" fill="#adbed3" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">JavaScript</text>
+  </g>
+  <!-- CSS: https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg; blob ceb0fcb3703ed119bc49b2c2ab612b04e1dc747f -->
+  <g transform="translate(242 16)">
+    <rect width="76" height="76" rx="18" fill="#242938" stroke="#37435a"/>
+    <svg x="8" y="8" width="60" height="60" viewBox="0 0 256 256" fill="none" fill-rule="evenodd">
+<rect width="256" height="256" rx="60" fill="#0277BD"/>
+<path d="M53.7527 102.651L56.6155 134.593H128.096V102.651H53.7527Z" fill="#EBEBEB"/>
+<path d="M128.095 38H127.985H48L50.9036 69.9423H128.095V38Z" fill="#EBEBEB"/>
+<path d="M128.095 218.841V185.608L127.955 185.645L92.3813 176.04L90.1072 150.564H72.821H58.0425L62.5175 200.718L127.948 218.882L128.095 218.841Z" fill="#EBEBEB"/>
+<path d="M167.318 134.593L163.61 176.019L127.985 185.635V218.866L193.468 200.718L193.948 195.321L201.454 111.229L202.233 102.651L208 38H127.985V69.9423H172.994L170.088 102.651H127.985V134.593H167.318Z" fill="white"/>
+</svg>
+    <text x="38" y="102" text-anchor="middle" fill="#adbed3" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">CSS</text>
+  </g>
+  <!-- MCP: https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/mcp.svg; blob 5cd83a8bf33d4dd1a8bacfc3a5e9a88d77734ebd -->
+  <g transform="translate(334 16)">
+    <rect width="76" height="76" rx="18" fill="#242938" stroke="#37435a"/>
+    <svg x="14" y="14" width="48" height="48" viewBox="0 0 24 24" fill="#f5f8ff" fill-rule="evenodd"><title>ModelContextProtocol</title><path d="M15.688 2.343a2.588 2.588 0 00-3.61 0l-9.626 9.44a.863.863 0 01-1.203 0 .823.823 0 010-1.18l9.626-9.44a4.313 4.313 0 016.016 0 4.116 4.116 0 011.204 3.54 4.3 4.3 0 013.609 1.18l.05.05a4.115 4.115 0 010 5.9l-8.706 8.537a.274.274 0 000 .393l1.788 1.754a.823.823 0 010 1.18.863.863 0 01-1.203 0l-1.788-1.753a1.92 1.92 0 010-2.754l8.706-8.538a2.47 2.47 0 000-3.54l-.05-.049a2.588 2.588 0 00-3.607-.003l-7.172 7.034-.002.002-.098.097a.863.863 0 01-1.204 0 .823.823 0 010-1.18l7.273-7.133a2.47 2.47 0 00-.003-3.537z"></path><path d="M14.485 4.703a.823.823 0 000-1.18.863.863 0 00-1.204 0l-7.119 6.982a4.115 4.115 0 000 5.9 4.314 4.314 0 006.016 0l7.12-6.982a.823.823 0 000-1.18.863.863 0 00-1.204 0l-7.119 6.982a2.588 2.588 0 01-3.61 0 2.47 2.47 0 010-3.54l7.12-6.982z"></path></svg>
+    <text x="38" y="102" text-anchor="middle" fill="#adbed3" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">MCP</text>
+  </g>
+  <!-- Codex: https://github.com/lobehub/lobe-icons/blob/master/packages/static-svg/icons/codex.svg; blob 4c648aff4a9188c36d32a706f1aa7813b8992f2c -->
+  <g transform="translate(426 16)">
+    <rect width="76" height="76" rx="18" fill="#242938" stroke="#37435a"/>
+    <svg x="14" y="14" width="48" height="48" viewBox="0 0 24 24" fill="#f5f8ff" fill-rule="evenodd"><title>Codex</title><path clip-rule="evenodd" d="M8.086.457a6.105 6.105 0 013.046-.415c1.333.153 2.521.72 3.564 1.7a.117.117 0 00.107.029c1.408-.346 2.762-.224 4.061.366l.063.03.154.076c1.357.703 2.33 1.77 2.918 3.198.278.679.418 1.388.421 2.126a5.655 5.655 0 01-.18 1.631.167.167 0 00.04.155 5.982 5.982 0 011.578 2.891c.385 1.901-.01 3.615-1.183 5.14l-.182.22a6.063 6.063 0 01-2.934 1.851.162.162 0 00-.108.102c-.255.736-.511 1.364-.987 1.992-1.199 1.582-2.962 2.462-4.948 2.451-1.583-.008-2.986-.587-4.21-1.736a.145.145 0 00-.14-.032c-.518.167-1.04.191-1.604.185a5.924 5.924 0 01-2.595-.622 6.058 6.058 0 01-2.146-1.781c-.203-.269-.404-.522-.551-.821a7.74 7.74 0 01-.495-1.283 6.11 6.11 0 01-.017-3.064.166.166 0 00.008-.074.115.115 0 00-.037-.064 5.958 5.958 0 01-1.38-2.202 5.196 5.196 0 01-.333-1.589 6.915 6.915 0 01.188-2.132c.45-1.484 1.309-2.648 2.577-3.493.282-.188.55-.334.802-.438.286-.12.573-.22.861-.304a.129.129 0 00.087-.087A6.016 6.016 0 015.635 2.31C6.315 1.464 7.132.846 8.086.457zm-.804 7.85a.848.848 0 00-1.473.842l1.694 2.965-1.688 2.848a.849.849 0 001.46.864l1.94-3.272a.849.849 0 00.007-.854l-1.94-3.393zm5.446 6.24a.849.849 0 000 1.695h4.848a.849.849 0 000-1.696h-4.848z"></path></svg>
+    <text x="38" y="102" text-anchor="middle" fill="#adbed3" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="600">Codex</text>
+  </g>
+</svg>

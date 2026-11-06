@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="95" viewBox="0 0 1280 95">
+<rect width="1280" height="95" rx="12" fill="#0b1b2c"/>
+<path d="M28 73H1251" stroke="#2c6280" stroke-width="1"/><path d="M28 73H180" stroke="#9bdefb" stroke-width="2"/>
+<path d="M35 22V60M41 22V60" stroke="#8ce5ff" stroke-width="2"/>
+<text x="62" y="52" fill="#e9faff" font-family="Arial,sans-serif" font-size="27" font-weight="700" letter-spacing="2">SELECTED WORK</text>
+<text x="1241" y="51" fill="#7cb4ce" text-anchor="end" font-family="Consolas,monospace" font-size="13" letter-spacing="2">CHRIS / CURRENT BUILDS</text>
+<rect x="30" y="71" width="170" height="3" fill="#b5f4ff"><animate attributeName="x" values="30;1085;30" dur="8s" repeatCount="indefinite"/></rect>
+</svg>
